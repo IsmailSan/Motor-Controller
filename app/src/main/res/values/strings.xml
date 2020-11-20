@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motor Controller</string>
+    <string name="motor_control">Motor Control</string>
+    <string name="motor_off">Off</string>
+    <string name="motor_low">1</string>
+    <string name="motor_medium">2</string>
+    <string name="motor_high">3</string>
+
+</resources>
